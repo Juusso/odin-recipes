@@ -1,1 +1,3 @@
 # odin-recipes
+
+This project will focus on healthy, macro-smart, recipes to help increase weight while maintaining a fitter physique blah blah blah...
