@@ -1,0 +1,72 @@
+#myheader {
+    color: whitesmoke;
+    background-color: rgb(34, 12, 129);
+    font-size: 20px;
+    text-align: center;
+    font-weight: bold;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 10px;
+    border: 5px coral solid;
+
+}
+
+p {
+    color: whitesmoke;
+    background-color: green;
+    font-size: 18px;
+    margin:0;
+}
+
+.button1 {
+    background-color: orange;
+    font-size: 22px;
+    font-family: helvetica, 'Times New Roman', sans-serif;
+}
+
+.button2 {
+    background-color: red;
+    font-size: 22px;
+    font-family: helvetica, 'Times New Roman', sans-serif;
+}
+
+.firstlist {
+    background-color: plum;
+    font-family: verdana, sans-serif;
+}
+
+#two {
+    background-color: powderblue;
+    color: red;
+    font-size: 22px;
+}
+
+#four {
+    background-color: powderblue;
+    color: forestgreen;
+    font-size: 20px;
+}
+
+.odd {
+    background-color: royalblue;
+    color: whitesmoke;
+    font-size: 24px;
+}
+
+.buttonlist {
+    background-color: white;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.image {
+    margin: 20px 250px;
+
+    /*margin above indicates height (top/bottom) and width (left/right)*/
+}
+
+.introduction {
+    border: 1px #ccc solid;
+    padding: 10px;
+    border-radius: 15px;
+    margin: 20px;
+}
